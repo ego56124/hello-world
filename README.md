@@ -1,3 +1,4 @@
 # hello-world
-Esto es un repositorio para practicar el flujo de GitHub
+Esto es un repositorio para practicar el flujo de GitHub \\
 Estoy de nuevo reaprendiendo GitHub
+*Esto esta en cursiva creo*
